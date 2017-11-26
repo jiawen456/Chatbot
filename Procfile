@@ -1,0 +1,1 @@
+web: java -jar target/rehab50001bot-1.0-SNAPSHOT.jar
